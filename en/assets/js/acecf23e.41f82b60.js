@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkyfbdocument=globalThis.webpackChunkyfbdocument||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/Knowledge-Graph/en/blog","blogTitle":"Blog","authorsListPath":"/Knowledge-Graph/en/blog/authors"}')}}]);
